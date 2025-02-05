@@ -1,0 +1,5 @@
+GET http://api.tvmaze.com/search/shows?q=lost
+
+###
+
+GET http://api.tvmaze.com/shows/123?embed=episodes

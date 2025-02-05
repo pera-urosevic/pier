@@ -1,0 +1,4 @@
+.dist
+.env
+*.sh
+*.ps1
